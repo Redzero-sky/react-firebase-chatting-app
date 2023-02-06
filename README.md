@@ -31,8 +31,8 @@
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
-`cd chatify`
+`git clone https://github.com/marlborocool/react-firebase-chatting-app.git` <br/>
+`cd react-firebase-chatting-app`
 
 ### Install Dependencies
 
